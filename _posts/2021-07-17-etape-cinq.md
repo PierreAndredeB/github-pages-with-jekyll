@@ -1,3 +1,7 @@
+---
+title: "MON PREMIER BLOG"
+date: 2021_07_17
+---
 theme: minima
 title: My first blog with github
 author: Pierre-André
