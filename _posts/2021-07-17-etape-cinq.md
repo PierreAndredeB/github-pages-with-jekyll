@@ -1,6 +1,6 @@
 ---
 title: "MON PREMIER BLOG"
-date: 2021_07_17
+date: 2021-07-17
 ---
 theme: minima
 title: My first blog with github
